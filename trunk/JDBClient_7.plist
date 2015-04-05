@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://119.254.100.35:8080/job/iOS_Branch_v1.0_322/7/artifact/Products/JDBClient_7.ipa</string>
+					<string>http:///job/iOS_CI/7/artifact/Products/JDBClient_7.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
