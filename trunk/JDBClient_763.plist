@@ -17,19 +17,19 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ccjiupaifund/iosplist/master/icon.png</string>
+					<string>https://plist.jiedaibao.com/icon/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ccjiupaifund/iosplist/master/icon.png</string>
+					<string>https://plist.jiedaibao.com/icon/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.renrenxing.JDB</string>
+				<string>com.renrenxing.JDBEnterprise</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
